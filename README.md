@@ -28,10 +28,5 @@ Features: order handling, billing, menu storage, and record saving.
 
 ---
 
-## 📈 GitHub Stats
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HariSharma7940&show_icons=true&theme=default)
-
----
-
 ## ✨ Thanks for visiting!
 Feel free to check my repositories and connect with me 😊
